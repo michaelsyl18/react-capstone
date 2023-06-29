@@ -65,7 +65,7 @@ const Signup = () => {
                 name="name"
                 type="text"
                 label="Full Name"
-                placeholder="Olga Simpson"
+                placeholder="First and Last name"
                 icon={<FiUser/>}
               />
 
@@ -73,7 +73,7 @@ const Signup = () => {
                 name="name"
                 type="text"
                 label="Full Name"
-                placeholder="Olga Simpson"
+                placeholder="Email Address"
                 icon={<FiMail />}
                 />
 
